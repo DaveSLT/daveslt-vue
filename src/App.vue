@@ -27,7 +27,6 @@
             <!-- Add Task Section -->
             <v-row align="center" class="mb-4 addtask1">
               <v-col cols="12" sm="9" class="addinput">
-                <!-- Adjusted to 12 cols for small screens -->
                 <v-text-field
                   v-model="newTask"
                   label="Add a new task"
